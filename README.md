@@ -5,6 +5,9 @@ You can use the [editor on GitHub](https://github.com/blue-turismo/blue-turismo/
 Anexando um arquivo:
 [Tela de Pesquisa](https://github.com/blue-turismo/Arquivos-do-projeto/blob/master/2Resultadodepesquisa.jpg)
 
+Anexando outro arquivo (zipado):
+[Tela de Pesquisa](https://github.com/blue-turismo/Arquivos-do-projeto/blob/master/2Resultadodepesquisa.zip)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
