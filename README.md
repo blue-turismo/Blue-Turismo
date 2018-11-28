@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/blue-turismo/blue-turismo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Anexando um arquivo:
-[Tela de Pesquisa](https://github.com/blue-turismo/blue-turismo/edit/master/2Resultadodepesquisa.jpg)
+[Tela de Pesquisa](https://github.com/blue-turismo/blue-turismo/edit/Arquivos-do-projeto/2Resultadodepesquisa.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
